@@ -1,7 +1,11 @@
 <div align="Left">
 
+  
+ <img src = "https://user-images.githubusercontent.com/93043822/157485428-7af38ded-0ccc-44a9-b33a-85210edce89f.JPG" width="100%" height="700"> 
+  
 ### :zzz: 항상 꿈을 꾸는 개발자
 
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSAFYKING&count_private=true&show_icons=true&theme=cobalt)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSAFYKING&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
