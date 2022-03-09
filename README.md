@@ -1,6 +1,6 @@
 <div align="Left">
 
-### 항상 꿈을 꾸는 개발자 👋
+### :zzz: 항상 꿈을 꾸는 개발자
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSAFYKING&count_private=true&show_icons=true&theme=cobalt)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSAFYKING&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
