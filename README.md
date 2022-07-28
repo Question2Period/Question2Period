@@ -8,7 +8,9 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Question2Period&count_private=true&show_icons=true&theme=cobalt)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Question2Period&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
+ </br>
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=7mercenary)](https://solved.ac/7mercenary)
   </div>
   
   <img src="https://img.shields.io/badge/Java-green?style=for-the-badge&logo=Java&logoColor=CC6699"/>
